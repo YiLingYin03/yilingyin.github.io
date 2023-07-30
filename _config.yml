@@ -11,7 +11,7 @@ title: "Yiling Yin"
 title_separator: "-"
 name: &name "yilingyin"
 description: &description "personal description"
-url: https://yilingyin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://yilingyin03.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "YiLingYin03/yilingyin.github.io"
 theme: minima
